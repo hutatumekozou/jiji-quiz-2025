@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "jiji-quiz-2025",
+    "slug": "jiji-quiz-2025"
+  }
+}
