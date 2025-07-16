@@ -5,6 +5,16 @@
       "expo-router"
     ],
     "name": "jiji-quiz-2025",
-    "slug": "jiji-quiz-2025"
+    "slug": "jiji-quiz-2025",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro"
+    },
+    "ios": {
+      "bundleIdentifier": "com.jiji.quiz2025"
+    },
+    "android": {
+      "package": "com.jiji.quiz2025"
+    }
   }
 }
